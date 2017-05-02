@@ -1,0 +1,73 @@
+body {
+  
+background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  
+font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
+  
+ padding: 0 2em;
+  margin: 3em auto;
+}
+
+nav a{
+    text-decoration: none;
+  
+
+}
+
+
+nav {
+  
+  text-align: left;
+
+font-size: 9px;
+  
+}
+h2 {
+  
+  font-size: 50px;
+
+}
+
+header {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+ul{
+  margin: 4em 0 4em 0 ;
+  padding: 0 0 0 0;
+  text-align: center;
+list-style: none;
+}
+
+.intro_outro {
+  font-size: 20px;
+  
+}
+
+
+.jump-link-top {
+  text-align: center;
+  text-decoration: none;
+  
+  }
+
+.jump-link-top a {
+  display: block;
+  font: 1.1em monospace;
+  text-decoration: none;
+  padding: 1.2em;
+  }
+
+.jump-link-top .arrow-up {
+
+  vertical-align: middle;
+  margin-right: .2em;
+  }
+
+.jump-link-text {
+  text-decoration: none;
+  }
